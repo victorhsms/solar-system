@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/header';
 import SolarSystem from './components/solarSystem';
+import Missions from './components/missions';
 
 class App extends React.Component {
   render() {
@@ -8,6 +9,7 @@ class App extends React.Component {
       <div>
         <Header />
         <SolarSystem />
+        <Missions />
       </div>
     );
   }
