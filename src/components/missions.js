@@ -1,7 +1,7 @@
 import React from 'react';
 import { nanoid } from 'nanoid';
-import Title from './title';
-import MissionCard from './missionCard';
+import Title from './Title';
+import MissionCard from './MissionCard';
 import missions from '../data/missions';
 
 // Referencia do 'nanoid' comentada nas linhas 7..9 do arquivo ./solarSystem.js

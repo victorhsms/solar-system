@@ -1,7 +1,7 @@
 import React from 'react';
 import { nanoid } from 'nanoid';
-import Title from './title';
-import PlanetCard from './planetCard';
+import Title from './Title';
+import PlanetCard from './PlanetCard';
 import planets from '../data/planets';
 
 // Referencia nanoid: https://github.com/ai/nanoid/
